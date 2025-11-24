@@ -1,0 +1,10 @@
+
+### **3. `.gitignore`**
+```gitignore
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.png
+*.jpg
+*.db
